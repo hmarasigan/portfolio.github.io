@@ -1496,7 +1496,8 @@
         background: #c5c5d6;
         box-shadow:  5px -5px 10px #a5a5b4,
              -5px 5px 10px #e5e5f8;
-    }
+        color: hsl(9,100%, 39%);     
+    }   
 
     /* Development Section */
 
